@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap');
+
+
+
+.background{
+    text-align: center !important;
+    background-image: url(possible.png) !important;
+    min-width: 100% !important;
+    min-height: 100% !important;
+    background-size: cover !important;
+    background-position: center !important; 
+    text-shadow: 0 0 5px rgb(17, 21, 252), 0 0 10px rgb(153, 153, 153), 0 0 10px #3200e6, 0 0 10px #000fe6, 0 0 10px #3d00e6, 0 0 10px #6400e6, 0 0 10px #5100e6 !important;
+ 
+    color: #ffffffd2 !important;
+
+           }
+
+.name{
+
+color:#1be9d8d2 !important;
+font-size: 40px !important; 
+position: relative !important;
+top: 20px;
+font-family: 'Dongle', sans-serif !important;
+}           
+
+.nav-item{
+color:#1be9d8d2 !important;
+font-size: 40px !important; 
+font-family: 'Dongle', sans-serif !important;
+}
